@@ -1,0 +1,11 @@
+- name: "HSC"
+  university: "Adamjee Cantonment College"
+  more: "Science"
+  date: "2019 - 2021"
+  gpa: "5.00"
+
+- name: "SSC"
+  university: "Adamjee Cantonment Public School"
+  more: "Science"
+  date: "2017 - 2019"
+  gpa : "5.00"

@@ -1,0 +1,29 @@
+- company: The Postman 24
+  roles:
+    - role: Content Writer
+      details: "Worked as a content writer at https://thepostman24.com, developed and executed effective written materials in a timely manner and accurately translated content."
+      date: "2022"
+
+- company: The Penguins Club
+  roles: 
+    - role: Content Writer
+      details: "Experience in writing articles on technology for the online magazine https://thepenguins.club, currently an active member of the organization."
+      date: "2021"
+
+- company: Adamjee Cantonment College Quiz Club
+  roles: 
+    - role: Secretary of Publication
+      details: "Experience in Graphic Design and Publishing for the club, including responsibility for visual design and layout for various. Organized and coordinated both online and offline events for the club."
+      date: "2020 - 2021"
+    
+- company: Edvive
+  roles:
+    - role: Content Writer
+      details: "Completed a 6-month internship program at https://edvive.com, where I was involved in organizing an online show, writing scripts and working collaboratively in a team environment."
+      date: "2020"
+
+- company: Bigganchinta
+  roles:
+    - role: Volunteer
+      details: "Volunteered and organized events for the science magazine of Prothom Alo, utilizing my organizational skills to support the magazine’s mission and goals."
+      date: "2019"

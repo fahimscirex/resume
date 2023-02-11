@@ -1,0 +1,56 @@
+about:
+  name: Fahim Montasir 
+  tagline: Content Writer - Graphic Designer - Linux Enthusiast
+  # phone: "5070*4****"
+  email: fahimscirex@disroot.org
+  links:
+    - title: fahimscirex
+      url: https://scirex.me
+      icon: fas fa-globe-asia
+    - title: fahimscirex
+      url: https://twitter.com/fahimscirex
+      icon: fab fa-twitter
+    - title: fahimscirex
+      url: https://github.com/fahimscirex
+      icon: fab fa-github
+    - title: fahimscirex
+      url: https://deviantart.com/fahimscirex/
+      icon: fab fa-deviantart
+  details: |
+    A creative and adaptive individual with a passion for creation and strong work ethic. Completed HSC from Adamjee Cantonment College. Proven ability to learn quickly and work effectively in a team environment. Possesses over 5 years of experience in content writing and Linux administration. Additionally, has practical experience in graphic design and event management.
+
+skills:
+  - groupName: Office Suites
+    list:
+      - "> Microsoft Word - PowerPoint"
+      - "> LibreOffice Writer - Impress"
+
+  - groupName: Graphics
+    list:
+      - "> Illustrator - Inkscape"
+      - "> Photoshop - GIMP"
+      - "> Filmora - ShotCut"
+
+  - groupName: Programming & Systems
+    list:
+      - "> Shell Scripting - Git"
+      - "> Docker - nginx"
+      - "> Linux - Windows"
+
+  - groupName: Web
+    list:
+      - "> Wordpress - Ghost"
+      - "> Hugo - Jekyll"
+      - "> Search Engine Optimization (SEO)"
+
+interests:
+  - Open Source Software
+  - Graphic Design
+  - Content Writing
+
+languages:
+  - name: Bengali
+    level: Native
+
+  - name: English
+    level: Fluent
