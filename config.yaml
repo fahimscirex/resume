@@ -75,7 +75,7 @@ params:
     show: true
     credits: false
     footnote: >-
-      You can print this resume in A4 size or save as pdf pressing CTRL+P | Last update on 2023-02-11.
+      You can print this resume in A4 size or save as pdf pressing CTRL+P | Last update on 2023-02-15.
     links:
       - prefix: Contact me on
         title: Twitter
