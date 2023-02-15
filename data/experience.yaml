@@ -1,3 +1,9 @@
+- company: E&M Outsourcing
+  roles:
+    - role: Call Center Executive
+      details: "As an International Call Center Executive, successfully made outgoing calls, maintained positive relationships with customers and colleagues"
+      date: "2023"
+
 - company: The Postman 24
   roles:
     - role: Content Writer
@@ -22,8 +28,8 @@
       details: "Completed a 6-month internship program at https://edvive.com, where I was involved in organizing an online show, writing scripts and working collaboratively in a team environment."
       date: "2020"
 
-- company: Bigganchinta
-  roles:
-    - role: Volunteer
-      details: "Volunteered and organized events for the science magazine of Prothom Alo, utilizing my organizational skills to support the magazine’s mission and goals."
-      date: "2019"
+#- company: Bigganchinta
+#  roles:
+#    - role: Volunteer
+#      details: "Volunteered and organized events for the science magazine of Prothom Alo, utilizing my organizational skills to support the magazine’s mission and goals."
+#      date: "2019"
