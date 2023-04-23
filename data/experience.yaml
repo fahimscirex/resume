@@ -1,3 +1,8 @@
+- company: Next Door UK
+  roles:
+    - role: Social Media Manager
+      details: "Employed at Next Door UK as a Social Media Manager. Responsible for creating and publishing regular content, as well as maintaining financial reports."
+      date: "2023"  
 - company: E&M Outsourcing
   roles:
     - role: Call Center Executive
@@ -10,11 +15,11 @@
       details: "Worked as a content writer at https://thepostman24.com, developed and executed effective written materials in a timely manner and accurately translated content."
       date: "2022"
 
-- company: The Penguins Club
-  roles: 
-    - role: Content Writer
-      details: "Experience in writing articles on technology for the online magazine https://thepenguins.club, currently an active member of the organization."
-      date: "2021"
+#- company: The Penguins Club
+#  roles: 
+#    - role: Content Writer
+#      details: "Experience in writing articles on technology for the online magazine https://thepenguins.club, currently an active member of the organization."
+#      date: "2021"
 
 - company: Adamjee Cantonment College Quiz Club
   roles: 

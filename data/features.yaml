@@ -22,19 +22,21 @@ about:
 skills:
   - groupName: Office Suites
     list:
-      - "> Microsoft Word - PowerPoint"
-      - "> LibreOffice Writer - Impress"
+      - "> MS Word - Google Docs"
+      - "> MS Excel - Google Sheets"
+      - "> MS Powerpoint - Google Slides"
 
   - groupName: Graphics
     list:
-      - "> Illustrator - Inkscape"
-      - "> Photoshop - GIMP"
+      - "> Inkscape"
+      - "> GIMP - Canva"
       - "> Filmora - ShotCut"
 
   - groupName: Programming & Systems
     list:
-      - "> Shell Scripting - Git"
-      - "> Docker - nginx"
+      - "> Bash Scripting - Git"
+      - "> Docker"
+      - "> nginx - lighttpd"
       - "> Linux - Windows"
 
   - groupName: Web
@@ -53,4 +55,4 @@ languages:
     level: Native
 
   - name: English
-    level: Fluent
+    level: B2
