@@ -2,9 +2,9 @@ about:
   name: Fahim Montasir 
   tagline: Content Writer - Graphic Designer - Linux Enthusiast
   # phone: "5070*4****"
-  email: fahimscirex@disroot.org
+  email: hello@scirex.eu.org
   links:
-    - title: fahimscirex
+    - title: https://scirex.me
       url: https://scirex.me
       icon: fas fa-globe-asia
     - title: fahimscirex
@@ -14,36 +14,39 @@ about:
       url: https://github.com/fahimscirex
       icon: fab fa-github
     - title: fahimscirex
+      url: https://www.linkedin.com/in/fahimscirex
+      icon: fab fa-linkedin      
+    - title: fahimscirex
       url: https://deviantart.com/fahimscirex/
       icon: fab fa-deviantart
   details: |
-    A creative and adaptive individual with a passion for creation and strong work ethic. Completed HSC from Adamjee Cantonment College. Proven ability to learn quickly and work effectively in a team environment. Possesses over 5 years of experience in content writing and Linux administration. Additionally, has practical experience in graphic design and event management.
+    A creative and adaptive individual with a passion for creation and strong work ethic. Proven ability to learn quickly and work effectively in a team environment. Currently studying at Bangladesh University of Professionals. Possesses over 5 years of experience in content writing and Linux administration. Additionally, has practical experience in graphic design and event management.
 
 skills:
   - groupName: Office Suites
     list:
-      - "> MS Word - Google Docs"
-      - "> MS Excel - Google Sheets"
-      - "> MS Powerpoint - Google Slides"
+      - "-> MS Word - Google Docs"
+      - "-> MS Excel - Google Sheets"
+      - "-> MS Powerpoint - Google Slides"
 
   - groupName: Graphics
     list:
-      - "> Inkscape"
-      - "> GIMP - Canva"
-      - "> Filmora - ShotCut"
+      - "-> Inkscape - Photoshop"
+      - "-> GIMP - Canva"
+      - "-> Filmora - ShotCut"
 
   - groupName: Programming & Systems
     list:
-      - "> Bash Scripting - Git"
-      - "> Docker"
-      - "> nginx - lighttpd"
-      - "> Linux - Windows"
+      - "-> Bash Scripting - Git"
+      - "-> Docker - OpenWRT"
+      - "-> nginx - lighttpd"
+      - "-> Linux - Windows"
 
   - groupName: Web
     list:
-      - "> Wordpress - Ghost"
-      - "> Hugo - Jekyll"
-      - "> Search Engine Optimization (SEO)"
+      - "-> WordPress - Ghost"
+      - "-> Hugo - Jekyll"
+      - "-> SEO - Business Suite"
 
 interests:
   - Open Source Software
