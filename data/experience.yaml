@@ -2,12 +2,19 @@
   roles:
     - role: Social Media Manager
       details: "Employed at Next Door UK as a Social Media Manager. Responsible for creating and publishing regular content, as well as maintaining financial reports."
-      date: "2023"  
-- company: E&M Outsourcing
+      date: "2023*"
+
+- company: BUP Economics Club
   roles:
-    - role: Call Center Executive
-      details: "As an International Call Center Executive, successfully made outgoing calls, maintained positive relationships with customers and colleagues."
-      date: "2023"
+    - role: Content Creator
+      details: "Developed and created social media content as part of the Creative Department for the Economics Club at the Bangladesh University of Professionals to support promotional initiatives and branding objectives."
+      date: "2023*"  
+
+#- company: E&M Outsourcing
+#  roles:
+#    - role: Call Center Executive
+#      details: "As an International Call Center Executive, successfully made outgoing calls, maintained positive relationships with customers and colleagues."
+#      date: "2023"
 
 - company: The Postman 24
   roles:
