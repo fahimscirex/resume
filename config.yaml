@@ -80,7 +80,7 @@ params:
       - prefix: Contact me on
         title: Telegram
         url: 'https://t.me/yetanotherassbot'
-        icon: fab fa-twitter
+        icon: fab fa-telegram
       - prefix: Check out my
         title: Website
         url: 'https://scirex.me'
