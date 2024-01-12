@@ -1,14 +1,14 @@
-- company: Next Door UK
-  roles:
-    - role: Social Media Manager
-      details: "Employed at Next Door UK as a Social Media Manager. Responsible for creating and publishing regular content, as well as maintaining financial reports."
-      date: "2023*"
-
 - company: BUP Economics Club
   roles:
     - role: Content Creator
       details: "Developed and created social media content as part of the Creative Department for the Economics Club at the Bangladesh University of Professionals to support promotional initiatives and branding objectives."
       date: "2023*"  
+
+- company: Next Door UK
+  roles:
+    - role: Social Media Manager
+      details: "Worked at Next Door UK as a Social Media Manager. Responsible for creating and publishing regular content, as well as maintaining financial reports."
+      date: "2023"
 
 #- company: E&M Outsourcing
 #  roles:
