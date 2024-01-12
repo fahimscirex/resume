@@ -51,7 +51,7 @@ params:
     - custom.scss
     - print_urls.scss
   header:
-    avatar:
+    avatar: avatar.jpg
     contact: true
     tagline: true
     links: true
@@ -75,11 +75,11 @@ params:
     show: true
     credits: false
     footnote: >-
-      Press CTRL+P to print this resume | Last update on 2023-09-03.
+      Press CTRL+P to print this resume | Last updated on 2024-01-12.
     links:
       - prefix: Contact me on
-        title: Twitter
-        url: 'https://twitter.com/fahimscirex'
+        title: Telegram
+        url: 'https://t.me/yetanotherassbot'
         icon: fab fa-twitter
       - prefix: Check out my
         title: Website
