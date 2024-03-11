@@ -1,3 +1,9 @@
+- company: O'Neil Nissan
+  roles:
+    - role: Social Media Manager
+      details: "As a Social Media Manager for the sales consultant of O'Neil Nissan, my role involves regularly creating engaging content and managing interactions with our customers."
+      date: "2024*"
+
 - company: BUP Economics Club
   roles:
     - role: Content Creator
@@ -16,11 +22,11 @@
 #      details: "As an International Call Center Executive, successfully made outgoing calls, maintained positive relationships with customers and colleagues."
 #      date: "2023"
 
-- company: The Postman 24
-  roles:
-    - role: Content Writer
-      details: "Worked as a content writer at https://thepostman24.com, developed and executed effective written materials in a timely manner and accurately translated content."
-      date: "2022"
+#- company: The Postman 24
+#  roles:
+#    - role: Content Writer
+#      details: "Worked as a content writer at https://thepostman24.com, developed and executed effective written materials in a timely manner and accurately translated content."
+#      date: "2022"
 
 #- company: The Penguins Club
 #  roles: 
