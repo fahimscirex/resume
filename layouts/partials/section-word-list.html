@@ -14,16 +14,21 @@
 	</div>
 {{- else if eq .Feature.style "compact" -}}
 	<div class="item">
-		<dl>
-			{{ range $data }}
-			<dt>{{ .groupName }}</dt>
-			<dd>
-				{{- range .list -}}
-				<span>{{.}}</span>
-				{{- end -}}
-			</dd>
-			{{ end }}
-		</dl>
+		{{ range $data }}
+		<div class="skill-group">
+			<dl>
+				<dt>{{ .groupName }}</dt>
+				<dd>
+					{{- range .list -}}
+					<span>{{. | lower}}</span>
+					{{- end -}}
+				</dd>
+			</dl>
+			{{- with .description -}}
+			<p class="skill-desc">{{ . }}</p>
+			{{- end -}}
+		</div>
+		{{ end }}
 	</div>
 {{- else -}}
 	{{ range $data }}

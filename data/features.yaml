@@ -1,52 +1,59 @@
 about:
   name: Fahim Montasir 
-  tagline: Content Writer - Graphic Designer - Linux Enthusiast
-  # phone: "5070*4****"
+  tagline: Social Media Manager - Graphic Designer - Linux Enthusiast
+  phone: "+880 1518-739207"
   email: hello@scirex.eu.org
   links:
-    - title: https://scirex.me
+    - title: scirex.me
       url: https://scirex.me
       icon: fas fa-globe-asia
-    - title: fahimscirex
+    - title: Portfolio
+      url: https://dub.sh/misbah/
+      icon: fab fa-deviantart
+    - title: Twitter
       url: https://twitter.com/fahimscirex
       icon: fab fa-twitter
-    - title: fahimscirex
+    - title: GitHub
       url: https://github.com/fahimscirex
       icon: fab fa-github
-    - title: fahimscirex
+    - title: Linkedin
       url: https://www.linkedin.com/in/fahimscirex
       icon: fab fa-linkedin      
-    - title: fahimscirex
-      url: https://deviantart.com/fahimscirex/
-      icon: fab fa-deviantart
+
   details: |
-    A creative and adaptive individual with a passion for creation and strong work ethic. Proven ability to learn quickly and work effectively in a team environment. Currently studying at Bangladesh University of Professionals. Possesses over 5 years of experience in content writing and Linux administration. Additionally, has practical experience in graphic design and event management.
+    Social media and design professional with 3+ years of experience managing paid campaigns, brand identities, and digital content across multiple industries and markets. Proven track record in ad performance, visual storytelling, and cross-platform content delivery. Currently pursuing **BBA** in **Marketing** at **Bangladesh University of Professionals**.
 
 skills:
-  - groupName: Office Suites
+  - groupName: Social Media
+    description: Campaign planning, audience growth, paid ads & performance analytics
     list:
-      - "-> Microsoft Office"
-      - "-> Google Docs"
+      - Meta Business Suite
+      - Google Analytics
+      - Shopify
+      - WordPress
 
-  - groupName: Graphics
+  - groupName: Design & Video
+    description: Brand identity, digital assets, short-form content & promotional edits
     list:
-      - "-> Inkscape - Photoshop"
-      - "-> GIMP - Canva"
-      - "-> Filmora - ShotCut"
+      - Canva
+      - Adobe Photoshop
+      - Inkscape
+      - GIMP
+      - CapCut
+      - Kdenlive
 
-  - groupName: Programming & Systems
+  - groupName: Productivity & Tools
+    description: Project tracking, documentation, collaboration & self-hosted infrastructure
     list:
-      - "-> Bash Scripting - Git"
-      - "-> Docker - OpenWRT"
-      - "-> nginx - lighttpd"
-      - "-> Linux - Windows"
-
-  - groupName: Web
-    list:
-      - "-> WordPress - Ghost"
-      - "-> Hugo - Jekyll"
-      - "-> SEO - Business Suite"
-      - "-> Shopify - Storrea"
+      - Microsoft 365
+      - Google Workspace
+      - Trello
+      - Notion
+      - Slack
+      - Git
+      - Docker
+      - AWS
+      - Linux
 
 interests:
   - Open Source Software

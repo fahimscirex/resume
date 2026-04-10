@@ -1,19 +1,37 @@
-- company: O'Neil Nissan
-  roles:
-    - role: Social Media Manager
-      details: "As a Social Media Manager for the sales consultant of O'Neil Nissan, my role involves regularly creating engaging content and managing interactions with our customers."
-      date: "2024*"
 
-- company: BUP Economics Club
+- company: SPRK Technologies
   roles:
-    - role: Content Creator
-      details: "Developed and created social media content as part of the Creative Department for the Economics Club at the Bangladesh University of Professionals to support promotional initiatives and branding objectives."
-      date: "2023*"  
+    - role: Marketing and Media Buying (Remote)
+      details: "Handled end-to-end paid ad campaigns on Meta, generating 2,000+ leads while optimizing CPL and CTR. Wrote ad copy, designed creatives, and ran A/B tests to improve performance and conversions."
+      date: "Aug 2025 - Present"
+
+- company: O'Neill Nissan
+  roles:
+    - role: Social Media Manager (Remote)
+      details: "Designed **500+ branded visual assets** for O'Neill Nissan's digital platforms, building campaign materials that reinforced brand identity and drove customer engagement across social media channels."
+      date: "Jul 2024 - Mar 2026"
+
+- company: BdOSN
+  roles:
+    - role: Digital Content Creator (Volunteer)
+      details: "Designed visual identities and promotional materials for BdOSN's various campaigns: Bangladesh Wildlife Olympiad, BdMSO, BdMO, and MillionX Bangladesh - delivering branded assets for district-level events across Dhaka, Chittagong, Feni, Rangamati, Lalmonirhat, Nilphamari, Bandarban etc."
+      date: "Oct 2024 - November 2025"
+
+#- company: BUP Economics Club
+#  roles:
+#    - role: Content Creator
+#      details: "Developed and created social media content as part of the Creative Department for the Economics Club at the Bangladesh University of Professionals to support promotional initiatives and branding objectives."
+#      date: "2023*"
+#- company: DC Nursery & Services
+#  roles:
+#    - role: Social Media Manager
+#      details: "Led complete visual rebrand of DC Nursery & Services, designing new logo, color palette, and brand guidelines. Created diverse visual content including custom illustrations, animated stories, and branded templates that increased brand recognition and engagement."
+#      date: "2024" 
 
 - company: Next Door UK
   roles:
-    - role: Social Media Manager
-      details: "Worked at Next Door UK as a Social Media Manager. Responsible for creating and publishing regular content, as well as maintaining financial reports."
+    - role: Social Media Manager (Full-time)
+      details: "Designed and published **1000+ social media graphics** for NextDoor UK, creating branded templates and visual assets that maintained design consistency while driving engagement."
       date: "2023"
 
 #- company: E&M Outsourcing
@@ -34,17 +52,17 @@
 #      details: "Experience in writing articles on technology for the online magazine https://thepenguins.club, currently an active member of the organization."
 #      date: "2021"
 
-- company: Adamjee Cantonment College Quiz Club
-  roles: 
-    - role: Secretary of Publication
-      details: "Experience in Graphic Design and Publishing for the club, including responsibility for visual design and layout for various events. Organized and coordinated both online and offline events for the club."
-      date: "2020 - 2021"
+#- company: Adamjee Cantonment College Quiz Club
+#  roles: 
+#    - role: Secretary of Publication
+#      details: "Experience in Graphic Design and Publishing for the club, including responsibility for visual design and layout for various events. Organized and coordinated both online and offline events for the club."
+#      date: "2020 - 2021"
     
-- company: Edvive
-  roles:
-    - role: Content Writer
-      details: "Completed a 6-month internship program at https://edvive.com, where I was involved in organizing an online show, writing scripts and working collaboratively in a team environment."
-      date: "2020"
+#- company: Edvive
+#  roles:
+#    - role: Content Writer (Internship)
+#      details: "Coordinated content development for Edvive's online programme during 6-month internship, managing event logistics, scriptwriting, and guest coordination. "
+#      date: "2020"
 
 #- company: Bigganchinta
 #  roles:

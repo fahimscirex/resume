@@ -51,7 +51,7 @@ params:
     - custom.scss
     - print_urls.scss
   header:
-    avatar: 
+    #avatar: ""
     contact: true
     tagline: true
     links: true
@@ -59,7 +59,7 @@ params:
     - feature: education
     - feature: skills
       widget: word-list
-      style: title-list # list, compact, title-list
+      style: compact # list, compact, title-list
     #- feature: interests
     #  widget: word-list
     #  style: list
